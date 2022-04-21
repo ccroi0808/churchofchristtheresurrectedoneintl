@@ -1,0 +1,474 @@
+	.banner
+	{
+		color: #FFFFFF;
+		width: 100%;
+		height: 59px;
+		font-family: Helvetica;
+		font-size: 16px;
+
+	}
+	.footer
+	{
+		color: #FFFFFF;
+		width: 100%;
+		height: 110px;
+		font-family: Arial Narrow;
+		font-size: 14px;
+		background-color: #0a0a0a;
+		margin-top: -120px;
+	}
+	.footerr
+	{
+		color: #FFFFFF;
+		width: 100%;
+		height: 110px;
+		font-family: Arial Narrow;
+		font-size: 14px;
+		background-color: #0a0a0a;
+	}
+	.pfooter
+	{
+		font-family: "Segoe UI";
+		font-size: 13.5px;
+		color: #bebebe;
+		padding: 14px 40px;
+	}
+	.navbar
+	{
+		height: 57px;
+		color: #FFFFFF;
+		background: #0a0a0a;
+		width: 1348.5px;
+		margin-left: -10px;
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+		margin-top: -10px;
+	}
+	.navbar1
+	{
+		height: 50px;
+		color: #ec7f09;
+		background: #ec7f09;
+		width: 100%;
+		margin: auto;
+	}
+	.navfoot
+	{
+		height: 80px;
+		color: #ec7f09;
+		width: 100%;
+		margin: auto;
+	}
+	.banner1
+	{
+		color: #FFFFFF;
+		background: #ec7f09;
+		width: 100%;
+		height: 80px;
+	}
+	.main1
+	{
+		float: left;
+		color: #FFFFFF;
+
+	}
+	.mainOverview
+	{
+		float: left;
+		height: 10px;
+	}
+	.mainAct
+	{
+		float: left;
+		height: 10px;
+		background: url(Images/B.png)
+	}
+	.LCsubHeader
+	{
+		color: #FFFFFF;
+		padding: 0px 44px
+		font-family: "Arial";
+		font-size: 22px;
+		margin-left: 44px;
+		margin-right: 60px;
+	}
+	.overviewHeader
+	{
+		color: #028740;
+		font-family: Segoe UI;
+		font-size: 33px;
+		font-weight: bold;
+		text-align: left;
+		padding: 0px 44px
+	}
+	.overviewsubHeader
+	{
+		color: #FFFFFF;
+		font-family: Arial;
+		font-size: 22px;
+		text-align: left;
+		padding: 0px 44px
+	}
+	.overviewsubHeaders
+	{
+		color: #FFFFFF;
+		font-family: Arial;
+		font-size: 19px;
+		text-align: left;
+		padding: 0px 44px
+	}
+	.overviewsubHeaderss
+	{
+		color: #0a0a0a;
+		font-family: Arial;
+		font-size: 19px;
+		text-align: left;
+		padding: 0px 44px
+	}
+	.pdate
+	{
+		font-family: "Arial";
+		font-size: 13px;
+		color: #e60000;
+		text-align: justify;
+		margin-top: -10px;
+		margin-left: 44px;
+	}
+	.pWhat
+	{
+		font-family: "Segoe UI";
+		font-size: 16px;
+		color: #aeaeae;
+		text-align: justify;
+		margin-left: 44px;
+		margin-right: 60px;
+	}
+	.pWhats
+	{
+		font-family: "Segoe UI";
+		font-size: 15px;
+		color: #aeaeae;
+		text-align: justify;
+		margin-left: 44px;
+		margin-right: 718px;
+		position: absolute;
+		margin-top: -5px;
+		word-spacing: 0.210px;
+	}
+	.pLC
+	{
+		font-family: "Segoe UI";
+		font-size: 15px;
+		color: #aeaeae;
+		text-align: justify;
+		margin-left: 44px;
+		margin-right: 810px;
+		position: absolute;
+		margin-top: -5px;
+		word-spacing: 0.210px;
+	}
+	.pOverview
+	{
+		font-family: "Segoe UI";
+		font-size: 15px;
+		color: #aeaeae;
+		text-align: justify;
+		margin-left: 44px;
+		margin-right: 60px;
+	}
+	.pOverviews
+	{
+		font-family: "Segoe UI";
+		font-size: 15px;
+		color: #aeaeae;
+		text-align: justify;
+		margin-left: 820px;
+		margin-right: 118px;
+		position: absolute;
+		margin-top: -5px;
+		word-spacing: 0.210px;
+	}
+	.pOriel
+	{
+		font-family: "Segoe UI";
+		font-size: 15px;
+		color: #aeaeae;
+		text-align: justify;
+		margin-left: 415px;
+		margin-right: 118px;
+		position: absolute;
+		margin-top: -5px;
+		word-spacing: 0.210px;
+	}
+	.pGera
+	{
+		font-family: "Segoe UI";
+		font-size: 15px;
+		color: #aeaeae;
+		text-align: justify;
+		margin-left: 44px;
+		margin-right: 493px;
+		position: absolute;
+		margin-top: -5px;
+		word-spacing: 0.210px;
+	}
+	.psubMember
+	{
+		font-family: "Segoe UI";
+		font-size: 19px;
+		color: #dedfe0;
+		text-align: justify;
+		margin-left: 415px;
+		margin-right: 118px;
+		position: absolute;
+		margin-top: -5px;
+		word-spacing: 0.210px;
+	}
+	.pHomeOverview
+	{
+		font-family: "Segoe UI";
+		font-size: 15px;
+		color: #edebeb;
+		text-align: justify;
+		margin-left: 64px;
+		margin-right: 118px;
+		position: absolute;
+		margin-top: -5px;
+		word-spacing: 0.210px;
+	}
+	.pHomeAct
+	{
+		font-family: "Segoe UI";
+		font-size: 15px;
+		color: #0a0a0a;
+		text-align: justify;
+		margin-left: 64px;
+		margin-right: 118px;
+		position: absolute;
+		margin-top: -5px;
+		word-spacing: 0.210px;
+	}
+	.header1
+	{
+		color: #FFFFFF;
+		font-family: Helvetica;
+		font-size: 20px;
+		text-align: left;
+		margin-left: 1px;
+		vertical-align: top;
+	}
+	.border
+	{
+		border-left: 13px solid #ec7f09;
+		line-height: 30px
+		background-color: #ec7f09;
+	}
+	.image
+	{
+		margin-left: 44px;
+	}
+	.imageLC
+	{
+		margin-left: 420px;
+	}
+	.imageWhat
+	{
+		margin-left: 594px;
+	}
+	.imagePS
+	{
+		margin-left: 820px;
+	}
+	.divAni
+	{
+		 transition: transform .08s;
+	}
+	.divAni:hover
+	{
+		 transform: scale(1.002);
+	}
+	
+
+
+
+
+	a:hover 
+	{
+  		text-decoration: underline;
+  		text-decoration-color: #FFFFFF;
+	}
+	body
+	{
+		background-color: #0a0a0a;
+		color: #FFFFFF;
+		font-family: Segoe UI;
+		font-size: 12px;
+	}
+	a
+	{
+		color: #FFFFFF;
+		text-decoration: none;
+	}
+	.logo
+	{
+		background: #FFFFFF;
+		width: 200px;
+		align-items: center;
+	}
+	.navbar ul
+	{
+		margin-top: 15px;
+	}
+	.navbar ul li
+	{
+		display: inline-block;
+		margin: 0px -2px;
+		margin-top: -30px;
+	}
+	.navbar ul li a
+	{
+		text-decoration: none;
+		color: #FFFFFF;
+		padding: 16.5px 20px;
+	}
+	.Active 
+	{
+		background-color: #ec7f09;
+	}
+	.navbar ul li::after
+	{
+		content: '';
+		height: 3px;
+		width: 10;
+		position: absolute;
+		left: 0;
+		bottom: -10px;
+		transition: 0.5s;
+	}
+	.navbar ul li:hover::after
+	{
+		width: 100%;
+	}
+
+
+
+	.mainMV
+	{
+		height: 450px;
+		padding: 10px 70px;
+		display: flex;
+		align-items: center;
+		flex-direction: row;
+	}
+	.divMV
+	{
+		width: 290px;
+		height: 390px;
+		margin: auto;
+		background: url(Images/MV.png);
+		align-items: center;
+	}
+	.pMV
+	{
+		font-family: "Segoe UI";
+		font-size: 13.5px;
+		color: #dedfe0;
+		text-align: justify;
+		margin-left: 24px;
+		margin-right: 26px;
+	}
+	.titleMV
+	{
+		color: #FFFFFF;
+		font-family: Helvetica;
+		font-weight: bold;
+		font-size: 20px;
+		text-align: center;
+		margin-left: 0px;
+		vertical-align: top;
+	}
+	.MVHeader
+	{
+		color: #028740;
+		font-size: 21px;
+		font-family: Segoe UI;
+		font-weight: bold;
+		text-align: left;
+		padding: 0px 44px
+	}
+	.MVimage
+	{
+		margin-left: 184px;
+	}
+
+
+
+	.pC1
+	{
+		font-family: "Segoe UI";
+		font-size: 16px;
+		color: #FFFFFF;
+		text-align: justify;
+		margin-left: 74px;
+		margin-right: 718px;
+		position: absolute;
+		margin-top: 5px;
+		word-spacing: 0.210px;
+	}
+	.pC2
+	{
+		font-family: "Segoe UI";
+		font-size: 16px;
+		color: #FFFFFF;
+		text-align: justify;
+		margin-left: 74px;
+		margin-right: 108px;
+		position: absolute;
+		margin-top: 3px;
+		word-spacing: 0.210px;
+	}
+
+
+	.div3
+	{
+		width: 260px;
+		height: 240px;
+		margin: 20px;
+		border: 1px solid #777;
+		background-color: #0a0a0a;	
+
+	}
+	.Events
+	{
+		padding: 30px 50px;
+		display: inline-flex;
+		align-items: center;
+		flex-direction: row;
+	}
+	.icon
+	{
+		position: relative;
+		flex-wrap: wrap;
+	}
+	.icon:hover
+	{
+		z-index: 1;
+		transform: scale(1.03);
+
+	}
+	.p1
+		{
+		font-family: "Segoe UI";
+		font-size: 12px;
+		color: #FFFFFF;
+		text-justify: auto;
+	}
+	.subheader2
+	{
+		color: #FFFFFF;
+		font-size: 20px;
+		font-family: Segoe UI;
+		font-size: 18px;
+		font-weight: bold;
+	}
